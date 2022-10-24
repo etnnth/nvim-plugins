@@ -1,0 +1,27 @@
+[submodule "plugins/start/telescope.nvim"]
+	path = plugins/start/telescope.nvim
+	url = https://github.com/etnnth/telescope.nvim.git
+[submodule "plugins/start/cmp-nvim-lsp-signature-help"]
+	path = plugins/start/cmp-nvim-lsp-signature-help
+	url = https://github.com/etnnth/cmp-nvim-lsp-signature-help.git
+[submodule "plugins/start/plenary.nvim"]
+	path = plugins/start/plenary.nvim
+	url = https://github.com/etnnth/plenary.nvim.git
+[submodule "plugins/start/cmp-nvim-lsp"]
+	path = plugins/start/cmp-nvim-lsp
+	url = https://github.com/etnnth/cmp-nvim-lsp.git
+[submodule "plugins/start/LuaSnip"]
+	path = plugins/start/LuaSnip
+	url = https://github.com/etnnth/LuaSnip.git
+[submodule "plugins/start/cmp_luasnip"]
+	path = plugins/start/cmp_luasnip
+	url = https://github.com/etnnth/cmp_luasnip.git
+[submodule "plugins/start/nvim-lspconfig"]
+	path = plugins/start/nvim-lspconfig
+	url = https://github.com/etnnth/nvim-lspconfig.git
+[submodule "plugins/start/nvim-cmp"]
+	path = plugins/start/nvim-cmp
+	url = https://github.com/etnnth/nvim-cmp.git
+[submodule "plugins/start/nvim-treesitter"]
+	path = plugins/start/nvim-treesitter
+	url = https://github.com/etnnth/nvim-treesitter.git
